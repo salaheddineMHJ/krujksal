@@ -29,7 +29,7 @@ This implementation provides two modes:
 1. **Console-based Application**: Allows users to input vertices and edges manually via the terminal.
 2. **GUI Application**: Provides an interactive interface to add vertices and edges visually, run the algorithm, and display the MST.
 Here is an example of the GUI interface:
-<img src="img/img1.png" alt="Members" width="500" height="200">
+<img src="img/img1.png"  width="500" height="200">
 ---
 
 ## Features
@@ -45,7 +45,7 @@ Here is an example of the GUI interface:
   - Visualize the graph and highlight the MST edges.
   - Reset the graph and rerun the algorithm.
 Here is an example of the MST visualization:
-<img src="img/img2.png" alt="Members" width="500" height="200">
+<img src="img/img2.png" >
 ---
 
 ## Prerequisites
