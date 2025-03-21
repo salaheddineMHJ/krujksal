@@ -28,7 +28,8 @@ Kruskal's algorithm is a greedy algorithm used to find the Minimum Spanning Tree
 This implementation provides two modes:
 1. **Console-based Application**: Allows users to input vertices and edges manually via the terminal.
 2. **GUI Application**: Provides an interactive interface to add vertices and edges visually, run the algorithm, and display the MST.
-
+Here is an example of the GUI interface:
+![Banner](img/img1.pnj)
 ---
 
 ## Features
@@ -43,7 +44,8 @@ This implementation provides two modes:
   - Add weighted edges between vertices.
   - Visualize the graph and highlight the MST edges.
   - Reset the graph and rerun the algorithm.
-
+Here is an example of the MST visualization:
+<img src="img/img1.png" alt="Members" width="300" height="200">
 ---
 
 ## Prerequisites
