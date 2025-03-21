@@ -45,7 +45,7 @@ Here is an example of the GUI interface:
   - Visualize the graph and highlight the MST edges.
   - Reset the graph and rerun the algorithm.
 Here is an example of the MST visualization:
-<img src="img/img2.png" >
+<img src="img/img2.png"  width="800" height="400" >
 ---
 
 ## Prerequisites
